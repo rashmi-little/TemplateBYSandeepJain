@@ -9,7 +9,7 @@ int swap(req x,req y)
     y=temp;
     cout<<"After swapping "<<x<<" "<<y;
     return 0;
-} 
+}  
 int main()
 {
     swap<int>(10,15);
