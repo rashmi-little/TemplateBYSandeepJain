@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    cout<<equality(10,20);
+    cout<<equality('a',97);
     cout<<endl;
     cout<<equality(10,10);
     cout<<endl;

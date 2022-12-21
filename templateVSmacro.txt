@@ -1,0 +1,11 @@
+Template 
+we use template for not writing same function and logic many time for many data type .
+Our main motive is to pass data type as an  argument so that compiler can modify that code block as per given datatype.
+it is easy to debug.
+it is less error prone.
+it is a part of compilation phase.
+Macros 
+it simply replace the code by value without type checking.
+it is difficult to debug.
+it is error prone.
+it happens in pre-processor phase.
