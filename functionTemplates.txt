@@ -1,0 +1,18 @@
+We use function template so that we don't have write same function for different data types.
+like use have sorting function
+searching function
+max in a arary 
+whose element can be int float or char 
+some we don't have to write same code again and again.
+#include<iostream>
+using namespace std;
+template <typename type>
+return type fucntion name(param1,param2,-------)
+{
+    logic------
+}
+int main()
+{
+     functionname<data type>(arg1,arg2,-----);
+     return 0;
+}
