@@ -13,6 +13,7 @@ return type fucntion name(param1,param2,-------)
 }
 int main()
 {
+    
      functionname<data type>(arg1,arg2,-----);
      return 0;
 }
